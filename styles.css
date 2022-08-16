@@ -1,0 +1,59 @@
+main {
+
+    background-color: #E0E0E0;
+    font-family: Verdara
+    }
+    
+    #img-div {
+      background-color: white;
+    }
+    
+    header {
+      text-align: center;
+    padding: 10px 0 0 0;
+    }
+    
+    figcaption {
+      font-size: small;
+      width: 100%;
+      margin: 10px;
+      padding: 10px 0 20px 0;
+    }
+    
+    h2 {
+      text-align: center;
+    }
+    
+    ul { 
+      text-align: left;
+    }
+    
+    li {
+      margin: 20px;
+      line-height: 1.5;
+    }
+    
+    .italic-quote {
+    font-style: italic;text-align: left;
+    padding: 0 0 0 26px;
+    }
+    
+    .bold {
+      font-weight: bold;
+    }
+    
+    #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    }
+    
+    footer {
+      text-align: center;
+      font-size: 1.2em;
+    }
+    
+    a {
+      color: #866F98
+    }
